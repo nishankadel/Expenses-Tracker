@@ -7,7 +7,7 @@ const Header = () => {
       <div className="header-container">
         <div className="header">
           <div className="header-logo">
-            Xpensr <i className="fa-solid fa-calendar"></i>
+            Track-Expense <i className="fa-solid fa-calendar"></i>
           </div>
           <div className="header-button">
             <a
